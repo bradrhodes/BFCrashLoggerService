@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingService", "LoggingService\LoggingService.csproj", "{1A191851-8CD0-48FC-B2E8-B98EE155BCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A191851-8CD0-48FC-B2E8-B98EE155BCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A191851-8CD0-48FC-B2E8-B98EE155BCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A191851-8CD0-48FC-B2E8-B98EE155BCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A191851-8CD0-48FC-B2E8-B98EE155BCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
